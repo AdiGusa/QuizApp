@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">How was your day?</string>
+
+    <!-- Header text for the quiz [CHAR LIMIT = 25] -->
+    <string name="quiz_title">How happy was your day?</string>
+
+    <!-- Title body, explanation [CHAR LIMIT = 150] -->
+    <string name="little_title">This quizz will show you how happy was your day!</string>
+
+    <!-- Title: question 1 [CHAR LIMIT = 25] -->
+    <string name="question_1">Question 1</string>
+    <!-- Question body text 1 [CHAR LIMIT = 150] -->
+    <string name="question_body_1">How you woke up?</string>
+    <!-- Answers a for Question 1 [CHAR LIMIT = 150] -->
+    <string name="answer_1a">Sad.</string>
+    <!-- Answers b for Question 1 [CHAR LIMIT = 150] -->
+    <string name="answer_1b">Normal.</string>
+    <!-- Answers c for Question 1 [CHAR LIMIT = 150] -->
+    <string name="answer_1c">Happy!</string>
+    <!-- Answers d for Question 1 [CHAR LIMIT = 150] -->
+    <string name="answer_1d">Very happy!!!</string>
+
+    <!-- Title: question 2 [CHAR LIMIT = 25] -->
+    <string name="question_2">Question 2</string>
+    <!-- Question body text 2 [CHAR LIMIT = 150] -->
+    <string name="question_body_2">What was the first thing you did after you woke up?</string>
+    <!-- Answers a for Question 2 [CHAR LIMIT = 50] -->
+    <string name="answer_2a">Checked my phone.</string>
+    <!-- Answers b for Question 2 [CHAR LIMIT = 50] -->
+    <string name="answer_2b">Snoozed the alarm.</string>
+    <!-- Answers c for Question 2 [CHAR LIMIT = 50] -->
+    <string name="answer_2c">Went to the bathroom!</string>
+    <!-- Answers d for Question 2 [CHAR LIMIT = 50] -->
+    <string name="answer_2d">Went to the bathroom and did some morning gymnastics.</string>
+
+    <!-- Title: question 3 [CHAR LIMIT = 25] -->
+    <string name="question_3">Question 3</string>
+    <!-- Question body text 3 [CHAR LIMIT = 150] -->
+    <string name="question_body_3">How was your breakfast?</string>
+    <!-- Answers a for Question 3 [CHAR LIMIT = 50] -->
+    <string name="answer_3a">Im not eating breakfast.</string>
+    <!-- Answers b for Question 3 [CHAR LIMIT = 50] -->
+    <string name="answer_3b">It was normal.</string>
+    <!-- Answers c for Question 3 [CHAR LIMIT = 50] -->
+    <string name="answer_3c">I loved it!</string>
+
+    <!-- Title: question 4 [CHAR LIMIT = 25] -->
+    <string name="question_4">Question 4</string>
+    <!-- Question body text 4 [CHAR LIMIT = 150] -->
+    <string name="question_body_4">Did you had something planned for this day?</string>
+    <!-- Answers a for Question 4 [CHAR LIMIT = 50] -->
+    <string name="answer_4a">No.</string>
+    <!-- Answers b for Question 4 [CHAR LIMIT = 50] -->
+    <string name="answer_4b">Kinda.</string>
+    <!-- Answers c for Question 4 [CHAR LIMIT = 50] -->
+    <string name="answer_4c">Yes!</string>
+
+    <!-- Title: question 5 [CHAR LIMIT = 25] -->
+    <string name="question_5">Question 5</string>
+    <!-- Question body text 5 [CHAR LIMIT = 150] -->
+    <string name="question_body_5">How many friends you have met today?</string>
+    <!-- Answers a for Question 5 [CHAR LIMIT = 50] -->
+    <string name="answer_5a">1->5</string>
+    <!-- Answers b for Question 5 [CHAR LIMIT = 50] -->
+    <string name="answer_5b">5->15</string>
+    <!-- Answers c for Question 5 [CHAR LIMIT = 50] -->
+    <string name="answer_5c">15+</string>
+
+    <!-- Title: question 6 [CHAR LIMIT = 25] -->
+    <string name="question_6">Question 6</string>
+    <!-- Question body text 6 [CHAR LIMIT = 150] -->
+    <string name="question_body_6">How many random things have you said / done?</string>
+    <!-- Answers a for Question 6 [CHAR LIMIT = 50] -->
+    <string name="answer_6a">I dont remember saying / doing anything random.</string>
+    <!-- Answers b for Question 6 [CHAR LIMIT = 50] -->
+    <string name="answer_6b">Not many.</string>
+    <!-- Answers c for Question 6 [CHAR LIMIT = 50] -->
+    <string name="answer_6c">A lot, it felt so natural!</string>
+
+    <!-- Title: question 7 [CHAR LIMIT = 25 -->
+    <string name="question_7">Question 7</string>
+    <!-- Question body text 7 [CHAR LIMIT = 150] -->
+    <string name="question_body_7">How much you laughed? (Very important question).</string>
+    <!-- Answers a for Question 7 [CHAR LIMIT = 50] -->
+    <string name="answer_7a">Not much.</string>
+    <!-- Answers b for Question 7 [CHAR LIMIT = 50] -->
+    <string name="answer_7b">A little.</string>
+    <!-- Answers c for Question 7 [CHAR LIMIT = 50] -->
+    <string name="answer_7c">A lot, I laughed a lot!</string>
+
+    <!-- Title: question 8 [CHAR LIMIT = 25] -->
+    <string name="question_8">Question 8</string>
+    <!-- Question body text 8 [CHAR LIMIT = 150] -->
+    <string name="question_body_8">Have you kissed someone?</string>
+    <!-- Answers a for Question 8 [CHAR LIMIT = 50] -->
+    <string name="answer_8a">No.</string>
+    <!-- Answers b for Question 8 [CHAR LIMIT = 50] -->
+    <string name="answer_8b">Yes.</string>
+    <!-- Answers c for Question 8 [CHAR LIMIT = 50] -->
+    <string name="answer_8c">Yes, but she was not my girlfriend.</string>
+
+    <!-- Title: question 9 [CHAR LIMIT = 25] -->
+    <string name="question_9">Question 9</string>
+    <!-- Question body text 9 [CHAR LIMIT = 150] -->
+    <string name="question_body_9">Who you met?</string>
+    <!-- Answers a for Question 9 [CHAR LIMIT = 50] -->
+    <string name="answer_9a">No one.</string>
+    <!-- Answers b for Question 9 [CHAR LIMIT = 50] -->
+    <string name="answer_9b">One enemy.</string>
+    <!-- Answers c for Question 9 [CHAR LIMIT = 50] -->
+    <string name="answer_9c">2+ friends.</string>
+    <!--Answers d for Question 9 [CHAR LMIT = 50] -->
+    <string name="answer_9d">2+ best friends.</string>
+    <!-- Title: question 10 [CHAR LIMIT = 25] -->
+    <string name="question_10">Question 10</string>
+    <!-- Question body text 10 [CHAR LIMIT = 50] -->
+    <string name="question_body_10">Describe this day with only one word!</string>
+    <!-- Answers a for Question 10 [CHAR LIMIT = 50] -->
+    <string name="answer_10">Type the word here please</string>
+
+    <!-- Title: question 11 [CHAR LIMIT = 25] -->
+    <string name="question_11">Question 11</string>
+    <!-- Question body text 11 [CHAR LIMIT = 50] -->
+    <string name="question_body_11">What is your name?</string>
+    <!-- Answers d for Question 1 [CHAR LIMIT = 50] -->
+    <string name="answer_11">Type your name here please</string>
+
+    <!-- Button Submit [CHAR LIMIT = 25] -->
+    <string name="submit">Submit answers</string>
+    <!-- Text before submit button [CHAR LIMIT = 150] -->
+    <string name="submit_text">Are you sure you done? Please click the Submit button to show the result.</string>
+    <string name="result_0_25">You had a lame day.</string>
+    <string name="result_25_50">You had an almost happy day!</string>
+    <string name="result_50_70">Wow, you had an awesome happy day!</string>
+    <string name="result_70_80">Best day ever!</string>
+
+</resources>
